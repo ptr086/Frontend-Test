@@ -1,0 +1,13 @@
+#output,.calc{
+	margin: 0 auto;
+	text-align: center
+}
+.calc{
+	max-width: 200px;
+}
+#output{
+	border: 2px dotted;
+}
+#output, .calculations,.resultHeader {
+	max-width: 500px;
+}
